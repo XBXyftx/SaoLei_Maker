@@ -10,7 +10,12 @@
 
 void loadResource();
 void draw(int map[][COL]);
+void mouseMsg(ExMessage* msg, int map[][COL]);
+void boomBlank(int map[][COL], int row, int col);
+int judge(int map[][COL], int row, int col);
+
 IMAGE imgs[12];
+
 int main() {
 	int map[ROW][COL] = { 0 };
 	//´´½¨´°¿Ú
