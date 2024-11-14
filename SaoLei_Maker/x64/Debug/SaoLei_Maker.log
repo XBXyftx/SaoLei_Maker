@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CProjects\SaoLei_Maker\SaoLei_Maker\main.cpp(16,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\CProjects\SaoLei_Maker\SaoLei_Maker\main.cpp(38,4): error C3861: “printf”: 找不到标识符
+D:\CProjects\SaoLei_Maker\SaoLei_Maker\main.cpp(40,3): error C3861: “printf”: 找不到标识符

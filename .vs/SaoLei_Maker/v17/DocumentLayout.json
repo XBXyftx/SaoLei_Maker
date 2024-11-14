@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CProjects\\SaoLei_Maker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7C6763-249A-4EAB-B76A-940F7FEE6EFE}|SaoLei_Maker\\SaoLei_Maker.vcxproj|D:\\CProjects\\SaoLei_Maker\\SaoLei_Maker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B7C6763-249A-4EAB-B76A-940F7FEE6EFE}|SaoLei_Maker\\SaoLei_Maker.vcxproj|solutionrelative:SaoLei_Maker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CProjects\\SaoLei_Maker\\SaoLei_Maker\\main.cpp",
+              "RelativeDocumentMoniker": "SaoLei_Maker\\main.cpp",
+              "ToolTip": "D:\\CProjects\\SaoLei_Maker\\SaoLei_Maker\\main.cpp",
+              "RelativeToolTip": "SaoLei_Maker\\main.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T11:03:08.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
