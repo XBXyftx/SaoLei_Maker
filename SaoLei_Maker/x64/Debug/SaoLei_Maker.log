@@ -1,3 +1,2 @@
 ﻿  main.cpp
-D:\CProjects\SaoLei_Maker\SaoLei_Maker\main.cpp(19,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   SaoLei_Maker.vcxproj -> D:\CProjects\SaoLei_Maker\x64\Debug\SaoLei_Maker.exe
