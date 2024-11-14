@@ -251,7 +251,8 @@ void boomBlank(int map[][COL], int row, int col)
 int judge(int map[][COL], int row, int col)
 {
     //点到雷游戏结束，输了
-    if (map[row][col] == -1 || map[row][col] == 19)
+    /*if (map[row][col] == -1 || map[row][col] == 19)*/
+    if(map[row][col]==-1)
     {
         return -1;
     }
