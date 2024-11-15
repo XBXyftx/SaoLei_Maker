@@ -3,8 +3,8 @@
 #include<time.h>
 #include<easyx.h>
 
-#define ROW 20          //行列常量
-#define COL 20
+#define ROW 10          //行列常量
+#define COL 10
 #define MINENUM 10      //雷的数量
 #define IMGSIZE 40      //图片大小
 
